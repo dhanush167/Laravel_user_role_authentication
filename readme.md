@@ -12,7 +12,13 @@
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 
-<h1>Associate users with permissions and roles</h1>
+<h1>Associate users with permissions and roles {From the
+(open) source}</h1>
+
+
+<H2>https://spatie.be/open-source</H2>
+
+
 
 <p>composer require spatie/laravel-permission</p>
 
